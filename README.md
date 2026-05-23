@@ -221,14 +221,7 @@ This dashboard helps answer questions like:
 ###### **## Dashboard Screenshot**
 
 
-
-
-
-
-
-
-
-!\[Coffee Dashboard](COFFEE\_ORDER\_DATA\_DASHBOARD\_IMAGE/IMAGE.png)
+<img src="https://github.com/sanskrutidhole19-lgtm/COFFEE_ORDER_DATA_DASHBOARD---USING-EXCEL/blob/main/COFFEE_ORDER_DATA_DASHBOARD_IMAGE/IMAGE.png?raw=true" width="1000">
 
 
 
